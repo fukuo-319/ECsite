@@ -1,1 +1,2 @@
-# ECsite
+Myproductionsは研修中に行ったECsiteの個人の制作物となります。
+また、Teamproductionsはチーム開発での，私の担当機能のソースコードとなります。，
